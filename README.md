@@ -1,6 +1,7 @@
 # SentimentSniffer
 
 Overview
+
 SentimentSniffer is a Python project designed to perform sentiment analysis on text data, particularly tweets. It utilizes Natural Language Processing (NLP) techniques along with machine learning models to classify the sentiment of tweets into three categories: positive, negative, and neutral.
 
 Libraries Required
