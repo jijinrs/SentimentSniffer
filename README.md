@@ -30,6 +30,7 @@ Returns the predicted sentiment label ('positive', 'negative', or 'neutral').
 
 
 Example Usage
+
 # Importing required libraries
 import SentimentSniffer
 
