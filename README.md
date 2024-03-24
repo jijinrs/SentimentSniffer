@@ -30,7 +30,6 @@ Returns the predicted sentiment label ('positive', 'negative', or 'neutral').
 
 
 Example Usage
-
 # Importing required libraries
 import SentimentSniffer
 
@@ -39,9 +38,11 @@ tweet = "@USAirways flt 419. 2+ hrs Late Flight, baggage + 1 more hr. Now I see 
 
 # Analyzing sentiment
 predicted_sentiment = SentimentSniffer.sentiment_analyzer(tweet)
+
 print("Predicted Sentiment:", predicted_sentiment)
 
 Output:
 Predicted Sentiment: ['negative']
+
 Conclusion
 SentimentSniffer provides a simple yet effective solution for sentiment analysis of tweets. By leveraging NLP techniques and machine learning models, it accurately predicts the sentiment of text data, which can be valuable for various applications such as social media monitoring, customer feedback analysis, and brand sentiment analysis.
